@@ -1,0 +1,10 @@
+export const ELMT_TYPE = 'EM303'
+export const ELMT_CODE_STRUCTPARTS = 'STRUCTPARTS' //结构部位
+export const ELMT_CODE_CHECKTYPES = 'CHECKTYPES' //检验类别
+export const ELMT_CODE_SAMPNAMES = 'SAMPNAMES' //样品名称
+export const ELMT_CODE_UNITNUMS = 'UNITNUMS' //生产厂家
+export const ELMT_CODE_EXPLS = 'EXPLS' //备注
+export const ELMT_CODE_RECADDS = 'RECADDS' //取样地点
+export const ELMT_CODE_CLS = 'CLS' // 样品编号
+export const ELMT_CODE_SAMPNUMS = 'SAMPNUMS' // 样品编号
+export const ELMT_CODE_SENDADDS = 'SENDADDS' //送样地点

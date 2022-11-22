@@ -1,0 +1,14 @@
+export const ELMT_TYPE = 'EM301'
+export const ELMT_CODE_STRUCTPARTS = 'STRUCTPARTS' //结构部位
+export const ELMT_CODE_CHECKTYPES = 'CHECKTYPES' //检验类别
+export const ELMT_CODE_PIHAOS = 'PIHAOS' //炉、批号
+export const ELMT_CODE_UNITNUMS = 'UNITNUMS' //生产厂家
+export const ELMT_CODE_STANDNAMES = 'STANDNAMES' //检验标准
+export const ELMT_CODE_EXPLS = 'EXPLS' //备注
+export const ELMT_CODE_BKCOL1S = 'BKCOL1S' //母材单号
+export const ELMT_CODE_BKCOL2S = 'BKCOL2S' //技术等级
+export const ELMT_CODE_BKCOL3S = 'BKCOL3S' //焊条型号
+export const ELMT_CODE_RECADDS = 'RECADDS' //取样地点
+export const ELMT_CODE_PAIHAOS = 'PAIHAOS' // 牌号
+export const ELMT_CODE_SAMPNUMS = 'SAMPNUMS' // 样品编号
+export const ELMT_CODE_SENDADDS = 'SENDADDS' //送样地点
